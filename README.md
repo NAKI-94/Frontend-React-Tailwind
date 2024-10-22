@@ -32,13 +32,17 @@ git clone https://github.com/NAKI-94/Frontend-React-Tailwind.git
 Navegar a la carpeta del proyecto:
 
 bash
+
 Copiar código
 cd Frontend-React-Tailwind
+
 Instalar dependencias: Ejecuta el siguiente comando para instalar todas las dependencias necesarias (incluido Vite):
 
 bash
 Copiar código
+
 npm install
+
 Este comando descargará todas las bibliotecas y herramientas necesarias para ejecutar la aplicación.
 
 Ejecución
